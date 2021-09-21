@@ -11,7 +11,7 @@ Junk Methods and namespaces.
 
 Control Flow Obfuscastion.
 
-INT Protection
+INT Confusion
 
 Rename Methods, etc....
 # Licensing
