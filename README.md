@@ -18,3 +18,6 @@ Hardware ID Licensing
 Just a license file
 
 USB Hardware ID Licensing
+# Credits
+
+Thanks To <a href="https://github.com/Sato-Isolated/MindLated">MindLated Project</a> for Control Flow and INT Protection
