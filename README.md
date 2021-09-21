@@ -11,6 +11,8 @@ Junk Methods and namespaces.
 
 Control Flow Obfuscastion.
 
+INT Protection
+
 Rename Methods, etc....
 # Licensing
 Hardware ID Licensing
