@@ -13,6 +13,8 @@ Control Flow Obfuscastion.
 
 INT Confusion
 
+Anti-ILDasm Protection
+
 Rename Methods, etc....
 # Licensing
 Hardware ID Licensing
