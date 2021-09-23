@@ -60,7 +60,7 @@ namespace NetShield_Protector
         {
             StringBuilder DecryptEncryptionKey = new StringBuilder();
             for (int c = 0; c < KeyToEncrypt.Length; c++)
-                DecryptEncryptionKey.Append((char)((uint)KeyToEncrypt[c] ^ (uint)Key.Replace("A", "B").Replace("C", "P")[c % 4]));
+                DecryptEncryptionKey.Append((char)((uint)KeyToEncrypt[c] ^ (uint)Key[c % 4]));
             return DecryptEncryptionKey.ToString();
         }
 
