@@ -15,6 +15,8 @@ INT Confusion
 
 Anti-ILDasm Protection
 
+Packing
+
 Rename Methods, etc....
 # Licensing
 Hardware ID Licensing
