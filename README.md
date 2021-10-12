@@ -15,7 +15,7 @@ INT Confusion
 
 Anti-ILDasm Protection
 
-Packing
+Packing (you have to select another protection option to enable)
 
 Rename Methods, etc....
 # Licensing
