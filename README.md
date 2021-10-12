@@ -15,7 +15,7 @@ INT Confusion
 
 Anti-ILDasm Protection
 
-Renamer
+Renamer (renames methods parameters, etc...)
 
 Calls to Calli
 
