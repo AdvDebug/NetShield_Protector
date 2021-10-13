@@ -1,5 +1,5 @@
-<<Version>>
-NetShield Protector 1.3.3
+## Version
+Netshield Protector 1.3.3
 
-<<Update Link>>
+## Update Link
 https://github.com/AhmedMinegames/NetShield_Protector/releases/download/NetShield_1.3.3/Debug.zip
