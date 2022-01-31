@@ -27,6 +27,8 @@ Hardware ID Licensing
 Just a license file
 
 USB Hardware ID Licensing
+# Note
+for custom obfuscation program you can contact me on discord, Ahmed minegames#4108
 # Credits
 
 Thanks To <a href="https://github.com/Sato-Isolated/MindLated">MindLated Project</a> for Control Flow and INT Confusion
