@@ -17,7 +17,9 @@ Anti-ILDasm Protection
 
 Renamer (renames methods, parameters, etc...)
 
-Calls to Calli
+Anti-VM
+
+Anti-Debug
 
 Packing (you have to select another obfuscastion option to enable)
 
