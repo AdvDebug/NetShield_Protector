@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetShield Protector", "NetShield Protector\NetShield Protector.csproj", "{F796DDDD-9133-4A59-B511-6A0950690C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F796DDDD-9133-4A59-B511-6A0950690C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F796DDDD-9133-4A59-B511-6A0950690C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F796DDDD-9133-4A59-B511-6A0950690C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F796DDDD-9133-4A59-B511-6A0950690C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA0E6CF-94B1-4AB2-8844-25009C6D2847}
+	EndGlobalSection
+EndGlobal
