@@ -31,8 +31,14 @@ Hardware ID Licensing
 Just a license file
 
 USB Hardware ID Licensing
-# Note
-for custom obfuscation program you can contact me on discord, Ahmed minegames#4108
+# Use Cases
+Please Note that you shouldn't depend on this Protector Protection, it's are mainly for testing and exploring how obfuscation and packing/licensing may work.
+
+Some use cases are:
+
+* Packing your program with a specific HWID so that it runs on your pc only and people with physical access can't steal it easily.
+
+* Packing your program with a specific USB HWID so that it runs on different PCs with a trusted USB without easily tampering your program code.
 # Credits
 
 Thanks To <a href="https://github.com/Sato-Isolated/MindLated">MindLated Project</a> for Control Flow and INT Confusion
