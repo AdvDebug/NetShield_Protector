@@ -1,5 +1,7 @@
 # NetShield Protector
 .NET Copy Protection Software which includes licensing your C# with many things such as Hardware ID, License, USB Hardware ID, etc....
+
+Note that the project are no longer supported.
 # Obfuscastion
 Base64 String Encoding.
 
